@@ -15,4 +15,4 @@ Bu projede dizilerin nasıl oluşturulup kullanıldığını öğrendim ve dizil
 ## Proje 7: ⌛ ForeachLoops
 Bu projede Foreach döngüsünü nasıl kullanacağımı öğrendim.Örnek olarak kullanıcıdan veri alan basit bir sınav uygulaması geliştirmeyi ve sınav sonuçlarına göre öğrencilerin geçip kalma durumlarını belirlemeyi öğrendim.
 ## Proje 8: ⌛ Methods
-Bu projede metotların nasıl tanımlandığını ve kullanıldığını öğrendim. Geriye değer döndürmeyen metotlar ile işlemler yapmayı öğrendim. Geriye değer döndüren metotlar ile parametreli ve parametresiz hesaplamalar yaparak, kullanıcıdan alınan verilerle işlemler gerçekleştirmeyi öğrendim. 
+Bu projede metotların nasıl tanımlandığını ve kullanıldığını öğrendim. Geriye değer döndürmeyen metotlar ile işlemler yapmayı öğrendim. Geriye değer döndüren metotlar ile parametreli ve parametresiz hesaplamalar yaparak, kullanıcıdan alınan verilerle işlemler gerçekleştiren uygulama yaptım.
