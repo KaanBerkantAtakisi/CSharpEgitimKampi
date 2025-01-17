@@ -17,3 +17,6 @@ Bu projede Foreach döngüsünü nasıl kullanacağımı öğrendim.Örnek olara
 ## Proje 8: ⌛ Methods
 Bu projede metotların nasıl tanımlandığını ve kullanıldığını öğrendim. Geriye değer döndürmeyen metotlar ile işlemler yapmayı öğrendim. Geriye değer döndüren metotlar ile parametreli ve parametresiz hesaplamalar yaparak, kullanıcıdan alınan verilerle işlemler gerçekleştiren uygulama yaptım.
 ## Proje 9: ⌛ DataBase
+Bu projede SQL kullanarak veritabanı bağlantısı oluşturmayı veritabanından verileri çekmeyi öğrendim. SqlConnection ile veritabanına bağlanmayı, SqlCommand sınıfyla ise oluşturduğum sorguları çalıştırmayı öğrendim.
+## Proje 10: ⌛ DataBaseCrud
+Bu projede temel CRUD(Create,Read,Update,Delete) işlemlerini öğrendim ve veritabanı ile bunları uygulamayı deneyimledim. SQL bağlantılarını kullanarak kategori ekleme, ürün ekleme, ürün listeleme,ürün silme ve ürün güncelleme işlemlerini uyguladım.
