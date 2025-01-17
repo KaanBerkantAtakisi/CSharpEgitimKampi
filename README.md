@@ -20,3 +20,5 @@ Bu projede metotların nasıl tanımlandığını ve kullanıldığını öğren
 Bu projede SQL kullanarak veritabanı bağlantısı oluşturmayı veritabanından verileri çekmeyi öğrendim. SqlConnection ile veritabanına bağlanmayı, SqlCommand sınıfyla ise oluşturduğum sorguları çalıştırmayı öğrendim.
 ## Proje 10: ⌛ DataBaseCrud
 Bu projede temel CRUD(Create,Read,Update,Delete) işlemlerini öğrendim ve veritabanı ile bunları uygulamayı deneyimledim. SQL bağlantılarını kullanarak kategori ekleme, ürün ekleme, ürün listeleme,ürün silme ve ürün güncelleme işlemlerini uyguladım.
+
+
